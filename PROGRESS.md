@@ -1,0 +1,3 @@
+# 100 Days of DevOps — Progress
+- [x] Day 01 — User with non-interactive shell
+- [ ] Day 02 — …

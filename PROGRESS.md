@@ -23,17 +23,17 @@ Use this checklist to track daily entries. Each item should link to the correspo
 
 - [x] Day 01 — User with non-interactive shell  
   ↳ `days/day01-user-noninteractive.md`
-- [ ] Day 02 — Temporary user with expiry  
+- [x] Day 02 — Temporary user with expiry  
   ↳ `days/day02-temp-user-expiry.md`
-- [ ] Day 03 — Disable direct root SSH  
+- [x] Day 03 — Disable direct root SSH  
   ↳ `days/day03-disable-root-ssh.md`
-- [ ] Day 04 — Script executable for all  
+- [x] Day 04 — Script executable for all  
   ↳ `days/day04-script-exec-perms.md`
-- [ ] Day 05 — SELinux packages & disabled  
+- [x] Day 05 — SELinux packages & disabled  
   ↳ `days/day05-selinux-disable.md`
-- [ ] Day 06 — Cron every 5 min  
+- [x] Day 06 — Cron every 5 min  
   ↳ `days/day06-cron-every-5-min.md`
-- [ ] Day 07 — Passwordless SSH  
+- [x] Day 07 — Passwordless SSH  
   ↳ `days/day07-passwordless-ssh.md`
 
 ---

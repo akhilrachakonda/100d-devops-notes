@@ -40,7 +40,7 @@ Use this checklist to track daily entries. Each item should link to the correspo
 
 ## Week 2 (Days 08–14)
 
-- [ ] Day 08 — Ansible 4.7.0 via pip3  
+- [x] Day 08 — Ansible 4.7.0 via pip3  
   ↳ `days/day08-ansible-4-7-0-pip3.md`
 - [ ] Day 09 — _TBD_  
   ↳ `days/day09-<short-title>.md`

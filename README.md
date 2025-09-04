@@ -25,6 +25,7 @@ Each entry is short, reproducible, and uses a consistent 5-section template.
 - Day 06 — Cron every 5 min → [`days/day06-cron-every-5-min.md`](days/day06-cron-every-5-min.md)  
 - Day 07 — Passwordless SSH → [`days/day07-passwordless-ssh.md`](days/day07-passwordless-ssh.md)  
 - Day 08 — Ansible 4.7.0 via pip3 → [`days/day08-ansible-4-7-0-pip3.md`](days/day08-ansible-4-7-0-pip3.md)
+- Day 09 — MariaDB Service Fix → [`days/day09-mariadb-service-fix.md`](days/day09-mariadb-service-fix.md)  
 
 > I’ll keep adding new days with the same format.
 

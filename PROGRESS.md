@@ -43,7 +43,7 @@ Use this checklist to track daily entries. Each item should link to the correspo
 - [x] Day 08 — Ansible 4.7.0 via pip3  
   ↳ `days/day08-ansible-4-7-0-pip3.md`
 - [x] Day 09 — MariaDB Service Fix  
-  └─ [days/day09-mariadb-service-fix.md](days/day09-mariadb-service-fix.md)
+  ↳ `days/day09-mariadb-service-fix.md`
 - [ ] Day 10 — _TBD_  
   ↳ `days/day10-<short-title>.md`
 - [ ] Day 11 — _TBD_  

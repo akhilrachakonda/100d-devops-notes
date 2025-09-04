@@ -58,12 +58,14 @@ mysqladmin --socket=/var/run/mysqld/mysqld.sock ping
 mysql -u root -S /var/run/mysqld/mysqld.sock
 SHOW DATABASES;
 SELECT VERSION();
+```
+## Verification
 ```bash
-# Verification
-systemctl status mariadb      # active (running)
-systemctl is-enabled mariadb  # enabled
-ss -lntp | grep 3306          # listening on 3306
-mysqladmin ping               # mysqld is alive
+systemctl status mariadb      # active (running)  
+systemctl is-enabled mariadb  # enabled  
+ss -lntp | grep 3306          # listening on 3306  
+mysqladmin ping               # mysqld is alive  
+```
 ## Output
 - Service is running  
 - Port 3306 open  
@@ -76,4 +78,4 @@ mysqladmin ping               # mysqld is alive
 - Always check `/var/log/mariadb/mariadb.log` and `journalctl -xeu mariadb.service` for real errors.  
 - PID and socket files must be under `/var/run/mysqld/` with `mysql:mysql` ownership.  
 - Corrupted/missing **Aria logs** (`aria_log.*`) prevent MariaDB startup; deleting them forces regeneration.  
-- After crash recovery, confirm with `mysqladmin ping` and SQL queries.  
+- After crash recovery, confirm with `mysqladmin ping` and SQL queries. 

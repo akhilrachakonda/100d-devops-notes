@@ -8,7 +8,7 @@ Each entry is short, reproducible, and uses a consistent 5-section template.
 ## 📁 Repo Structure
 
 - `days/` — each day’s Q&A write-up  
-- `docs/DAY_TEMPLATE.md` — template I use for every day  
+- `docs/DAY_TEMPLATE.md` — template I use for every day
 - `PROGRESS.md` — running checklist of days completed
 - `LICENSE` — MIT  
 - `.editorconfig`, `.gitattributes`, `.gitignore` — formatting & hygiene

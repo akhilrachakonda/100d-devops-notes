@@ -1,6 +1,6 @@
 # 100 Days of DevOps — Notes & Hands-On
 
-A daily log of my **KodeKloud** DevOps labs and hands-on tasks.  
+A daily log of my **KodeKloud** DevOps labs and hands-on tasks.
 Each entry is short, reproducible, and uses a consistent 5-section template.
 
 ---
